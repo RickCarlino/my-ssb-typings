@@ -1,0 +1,10 @@
+{
+  "name": "ssb-typings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^10.10.1",
+    "typescript": "^3.0.3"
+  }
+}
